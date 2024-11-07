@@ -18,5 +18,5 @@ If you are an admin, you can access the admin panel by logging in with your cred
 
 MongoDB
 Express.js
-React.j
+React.js
 Node.js
